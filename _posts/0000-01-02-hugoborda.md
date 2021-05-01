@@ -1,1 +1,6 @@
-_posts/0000-01-02-hugoborda.md
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Hello new world
+Use the left arrow to go back!
